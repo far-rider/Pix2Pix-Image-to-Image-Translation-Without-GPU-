@@ -56,7 +56,7 @@ python generate.py
 ## 📊 Results
 Sample generated images after training:
 
-![Sample Output](https://your-sample-image-url.com)
+![Sample Output] (sample_image.png.png)
 
 ## 🏆 Acknowledgments
 - This project is based on the [Pix2Pix paper](https://arxiv.org/abs/1611.07004)
