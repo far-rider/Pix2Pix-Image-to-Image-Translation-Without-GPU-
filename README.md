@@ -1,4 +1,3 @@
-# PRODIGY_GA_04
 # Pix2Pix Image-to-Image Translation (Without GPU)
 
 ## 📌 Overview
